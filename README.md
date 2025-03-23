@@ -13,6 +13,7 @@ This project is a compact device for monitoring the **State of Health (SoH)** an
 - **Schematic**: [Schematic Charging Circuit.pdf](Hardware/Schematic/Schematic%20Charging%20Circuit.pdf) | [Schematic MCU Circuit.pdf](Hardware/Schematic/Schematic%20MCU%20Circuit.pdf)
 - **Bill of Materials**: [BOM_Battery health device.xlsx](Hardware/BOM/BOM_Battery%20health%20device.xlsx)
 - **Gerber Files**: [Gerber_Files/](Hardware/Gerber_Files/)
+- **Pick and Place File**: [PickAndPlace_PCB_Battery-health-device.xlsx](Hardware/Pick_and_Place/PickAndPlace_PCB_Battery-health-device.xlsx)
 - **3D Models**: [3D_Models/](Hardware/3D_Models/)
 
 ## Firmware
