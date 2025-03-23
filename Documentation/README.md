@@ -20,13 +20,13 @@ This project is a compact device for monitoring the **State of Health (SoH)** an
 - **Arduino Code**: [Battery_health.ino](Firmware/Battery_health.ino)
 
 ## Assembly Guide
-For step-by-step assembly instructions, refer to the [Assembly Guide](Assembly_Guide.md).
+For step-by-step assembly instructions, refer to the [Assembly Guide](Documentation/Assembly_Guide.md).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Video Demonstration
-Watch the video demonstration of this project on [YouTube](https://www.youtube.com/your-video-link).
+Watch the video demonstration of this project on [YouTube].
 
 ## Credits
 - Inspired by SparkFun's Battery Babysitter.
