@@ -1,5 +1,8 @@
 # Battery Health Monitor
 
+[![How to Monitor Lithium Battery Health](Documentation/Images/how-to-monitor-lithium-battery-health-diy-project.png)](https://youtu.be/RCJagutQ1Ck)
+
+A DIY project to monitor State of Charge (SoC) and State of Health (SoH)...
 This project is a compact device for monitoring the **State of Health (SoH)** and **State of Charge (SoC)** of lithium batteries. It uses the BQ27441 fuel gauge IC and BQ24075 charger IC, along with an ATmega328P microcontroller, to provide real-time battery data and display it through LED bars.
 
 ## Features
