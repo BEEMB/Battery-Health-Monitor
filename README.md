@@ -29,5 +29,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Watch the video demonstration of this project on [YouTube].
 
 ## Credits
-- Inspired by SparkFun's Battery Babysitter.
-- Designed and built by [Your Name].
+- Inspired by SparkFun's [Battery Babysitter](https://www.sparkfun.com/sparkfun-battery-babysitter-lipo-battery-manager.html).
+- Designed and built by DIY GUY Chris.
