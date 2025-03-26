@@ -29,7 +29,7 @@ For step-by-step assembly instructions, refer to the [Assembly Guide](Documentat
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Video Demonstration
-Watch the video demonstration of this project on [YouTube].
+Watch the video demonstration of this project on [YouTube](https://www.youtube.com/watch?v=RCJagutQ1Ck).
 
 ## Credits
 - Inspired by SparkFun's [Battery Babysitter](https://www.sparkfun.com/sparkfun-battery-babysitter-lipo-battery-manager.html).
